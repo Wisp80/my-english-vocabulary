@@ -16,7 +16,7 @@ unpleasant - неприятный
 
 frightened - испуганный
 
-t obey - подчиняться
+to obey - подчиняться
 
 a behavior - повеление
 
@@ -32,6 +32,53 @@ to stare - смотреть/пялиться
 
 in the case of - в случае если
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------- Robbie ------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 a nod - кивок
 
 to nod - кивать
+
+to point toward - указывать на что-то
+
+to bang - ударить, стукнуть
+
+to lift - поднимать
+
+impatient - нетерпиливый, раздражительный
+
+pleased - довольный
+
+certainly - конечно, безусловно
+
+to frown - хмуриться
+
+to interrupt - прерывать кого-то
+
+to rid of - избавиться от кого-то/чего-то
+
+to frighten - пугать
+
+to argue - спорить
+
+a downtown - центр города
+
+several - несколько
+
+successful - успешный
+
+satisfactory - удовлетворительный
+
+Explain why words 'harm', 'conflict' and 'protect' are important in the Laws of Robotics?
+
+I think that word 'harm' is important in the Laws because people don't want robots to harm them. That is why exist the first Law of Robotics.
+
+I think that word 'conflict' is important in the Laws because in some situations Laws conflicts and this word solves this problem.
+
+I think that word 'protect' is important in the Laws because robots must protect themselves. 
+If they don't do it, they can break down often, which has great consequences.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------- Reason ------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
