@@ -32,6 +32,24 @@ to stare - смотреть/пялиться
 
 in the case of - в случае если
 
+1. Explain why words 'harm', 'conflict' and 'protect' are important in the Laws of Robotics?
+
+I think that word 'harm' is important in the Laws because people don't want robots to harm them. That is why exist the first Law of Robotics.
+I think that word 'conflict' is important in the Laws because in some situations Laws conflicts and this word solves this problem.
+I think that word 'protect' is important in the Laws because robots must protect themselves. 
+If they don't do it, they can break down often, which has great consequences.
+
+2. Describe Susan Calvin
+
+Susan Calvin is Robot-psychologist. She is serious, intellegent girl. She behaved coldly toward the people and things about her.
+Susan dreamed about exploring possibilities of robots since she was a child. And after all she is working in U. S. Robots and she's happy.
+
+3. Why is reporter interviewing her?
+
+The reporter wanted to write an article about Susan Calvin and her job.
+He had som notes but they were not enough, so he dicided to know her thoughts 
+and feelings about the development of robots.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------- Robbie ------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -69,15 +87,6 @@ several - несколько
 successful - успешный
 
 satisfactory - удовлетворительный
-
-Explain why words 'harm', 'conflict' and 'protect' are important in the Laws of Robotics?
-
-I think that word 'harm' is important in the Laws because people don't want robots to harm them. That is why exist the first Law of Robotics.
-
-I think that word 'conflict' is important in the Laws because in some situations Laws conflicts and this word solves this problem.
-
-I think that word 'protect' is important in the Laws because robots must protect themselves. 
-If they don't do it, they can break down often, which has great consequences.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------- Reason ------------------------------------------------------------------------
