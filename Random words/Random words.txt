@@ -46,3 +46,5 @@ overt - явный; видный
 consequently - следовательно
 
 out of earshot - так, что бы никто не услышал
+
+vapid - банальный
