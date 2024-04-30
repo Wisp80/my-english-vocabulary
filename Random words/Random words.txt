@@ -52,3 +52,5 @@ vapid - банальный
 charismatic - харизматичный
 
 a purge - очистка; удаление
+
+to prowl - красться
