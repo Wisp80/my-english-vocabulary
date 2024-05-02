@@ -56,3 +56,5 @@ a purge - очистка; удаление
 to prowl - красться
 
 a negotiation - переговоры
+
+a juxtaposition - сопостовление
