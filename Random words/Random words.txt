@@ -58,3 +58,5 @@ to prowl - красться
 a negotiation - переговоры
 
 a juxtaposition - сопостовление
+
+a value - значение
