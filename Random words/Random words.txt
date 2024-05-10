@@ -72,3 +72,5 @@ pious - благочестивый
 to dissociate - разлагаться
 
 wise - мудрый
+
+a pursuit - преследование
