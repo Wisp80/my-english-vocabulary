@@ -88,3 +88,5 @@ a pinch - щепотка
 splendid - великолепный
 
 a drawbridge - разводной мост
+
+a heart valve - сердечный клапан
