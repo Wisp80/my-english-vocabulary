@@ -92,3 +92,5 @@ a drawbridge - разводной мост
 a heart valve - сердечный клапан
 
 altogether - вообще; все вместе
+
+to exalt - превозносить
