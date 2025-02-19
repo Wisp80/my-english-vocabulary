@@ -263,3 +263,5 @@ to swill - заставить жидкость течь вокруг или по
 to delaminate - расслоиться
 
 a precaution - предостережение
+
+a compactor - уплотнитель
