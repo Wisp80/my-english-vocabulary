@@ -265,3 +265,5 @@ to delaminate - расслоиться
 a precaution - предостережение
 
 a compactor - уплотнитель
+
+a quid - фунт
