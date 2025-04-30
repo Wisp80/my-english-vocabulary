@@ -359,3 +359,5 @@ a mane - грива
 a bleachers - трибуны
 
 a hoof - копыто
+
+a muzzle - морда
