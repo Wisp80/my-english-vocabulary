@@ -625,3 +625,5 @@ autochthonous - местный, коренной; автохтонный
 a denizen - обитатель
 
 repulsive - отталкивающий
+
+evitable - избегаемый
