@@ -645,3 +645,5 @@ a mortgage - ипотека
 to feign - притворяться
 
 a cemetery - кладбище
+
+tender - нежный
