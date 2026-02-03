@@ -647,3 +647,5 @@ to feign - притворяться
 a cemetery - кладбище
 
 tender - нежный
+
+an exodus - массовый отъезд
