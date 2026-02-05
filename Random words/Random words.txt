@@ -649,3 +649,5 @@ a cemetery - кладбище
 tender - нежный
 
 an exodus - массовый отъезд
+
+a confection - кондитерское изделие
