@@ -666,3 +666,5 @@ arbitrary - произвольный, случайный
 an udder - вымя
 
 subsequent - последующий
+
+an aerialist - акробат
