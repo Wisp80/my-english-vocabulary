@@ -686,3 +686,5 @@ a crib - детская кроватка
 amicable - дружелюбный
 
 a slander - клевета
+
+derogatory - уничижительный
