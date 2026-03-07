@@ -688,3 +688,5 @@ amicable - дружелюбный
 a slander - клевета
 
 derogatory - уничижительный
+
+malevolent - злонамеренный
