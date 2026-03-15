@@ -690,3 +690,5 @@ a slander - клевета
 derogatory - уничижительный
 
 malevolent - злонамеренный
+
+a vortex - вихрь
