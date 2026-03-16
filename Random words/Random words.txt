@@ -692,3 +692,5 @@ derogatory - уничижительный
 malevolent - злонамеренный
 
 a vortex - вихрь
+
+to parch - сушить
