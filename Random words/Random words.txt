@@ -705,3 +705,5 @@ a mook - дурак
 a tortoise - черепаха, обычно живущая на суше
 
 to neglect - пренебрегать
+
+ostensibly - якобы
