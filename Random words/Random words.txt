@@ -709,3 +709,5 @@ to neglect - пренебрегать
 ostensibly - якобы
 
 a vestige - остаток
+
+a listlessness - вялость
