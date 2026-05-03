@@ -711,3 +711,5 @@ ostensibly - якобы
 a vestige - остаток
 
 a listlessness - вялость
+
+signal integrity - говоря про электричество, целостность сигнала
