@@ -713,3 +713,5 @@ a vestige - остаток
 a listlessness - вялость
 
 signal integrity - говоря про электричество, целостность сигнала
+
+an apothecary - архаичное, аптекарь
